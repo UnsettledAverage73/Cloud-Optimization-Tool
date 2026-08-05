@@ -35,3 +35,4 @@ frontend/build/
 # Docker
 *.pem
 EOF
+.env
